@@ -208,8 +208,18 @@ body {
   overflow: auto;
 }
 
-a {
-  
+a:link {
+  text-decoration: none;
+color: white;
+}
+a:visited {
+  color: white;
+}
+a:hover {
+  color: darkslategrey;
+}
+a:active {
+  color: white;
 }
 
 .work:nth-child(even) {
