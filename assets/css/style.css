@@ -208,17 +208,17 @@ body {
   overflow: auto;
 }
 
-a:link {
+#portlink:link {
   text-decoration: none;
 color: white;
 }
-a:visited {
+#portlink:visited {
   color: white;
 }
-a:hover {
+#portlink:hover {
   color: darkslategrey;
 }
-a:active {
+#portlink:active {
   color: white;
 }
 
